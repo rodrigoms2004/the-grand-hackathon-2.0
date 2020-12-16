@@ -34,3 +34,8 @@ python make_profile.py
 ```
 
 
+### Useful links
+
+[Running Jupyter Notebook on an EC2 Server](https://dataschool.com/data-modeling-101/running-jupyter-notebook-on-an-ec2-server/)
+
+[Jupyter notebook as a service on Ubuntu 18.04 with Python 3](https://naysan.ca/2019/09/07/jupyter-notebook-as-a-service-on-ubuntu-18-04-with-python-3/)

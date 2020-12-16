@@ -3,3 +3,4 @@ data/Test Data.zip
 data/Train Data.zip
 *.csv
 data/profiles/df_train_profile.html
+*.pem
